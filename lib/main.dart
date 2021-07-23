@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:music_stream/screens/player_ui.dart';
+import 'package:music_stream/screens/home/player_ui.dart';
 
 void main() {
   runApp(MyApp());
